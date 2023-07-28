@@ -1,0 +1,17 @@
+#Los archivos de aca nunca los va a guardar en repositorios
+#Python
+
+*.pyc
+__pycache__/
+build/
+dist/
+vemv/
+.cache/
+.pytest_cache/
+pygsheets.egg-info/
+.pytest_cache/
+media/*
+
+#Otros
+.DS_Store
+.coverage
